@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nihalanurag
-- 👀 I’m interested in Data
+- 👀 DATA, DATA and DATA!
 - 🌱 I’m currently studying at IISER Bhopal
 - 💞️ I’m looking to collaborate on projects related to Data Science/Data Analytics.
 - 📫 How to reach me-LinkedIn
